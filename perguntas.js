@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'Piada',
     'Quantas volta o cachorro da para deitar',
     'volte e meia ta deitado'
 )
@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Piada',
     'O que o pintinho caipira falou para outro?',
     'Pir'
 )
@@ -21,3 +21,9 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+criaCartao(
+    'piada',
+    'O que o rato come?',
+    'Queijo'
+)
+
