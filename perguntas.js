@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Futebol',
     'Quem foi o campeão da CBD em 2023?',
     'Foi o São Paulo FC'
 )
