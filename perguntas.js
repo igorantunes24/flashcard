@@ -18,8 +18,8 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Quem foi o campeão da CBD em 2023?',
+    'Foi o São Paulo FC'
 )
 criaCartao(
     'piada',
